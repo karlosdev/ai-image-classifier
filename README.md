@@ -1,0 +1,1 @@
+A project I did to learn how to properly use TensorFlow and MobileNetV2
